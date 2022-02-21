@@ -1,8 +1,9 @@
 ### Olar! Me chamo Lucas, muito prazer! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF771&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+animes)](https://git.io/typing-svg)
 <br>
 
 Estudante da <a href="https://www.digitalhouse.com/br">Digital House</a> no curso Certified Tech Developer. Em busca de aperfeiçoamento e novos desafios :rocket:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF771&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+animes)](https://git.io/typing-svg)
+
 <div>
   <a href="https://github.com/LucasSquariz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSquariz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
