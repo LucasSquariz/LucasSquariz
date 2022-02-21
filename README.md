@@ -1,5 +1,5 @@
 ### Olar! 👋 
-### Me chamo Lucas Squariz, muito prazer! :rocket:
+### Me chamo Lucas, muito prazer! :rocket:
 <br>
 
 <div>
