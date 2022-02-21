@@ -1,5 +1,6 @@
-### Olar! 👋
-### Me chamo Lucas, muito prazer! :rocket:
+### Olar! 👋 
+### Me chamo Lucas Squariz, muito prazer! :rocket:
+
 
 <div>
   <a href="https://github.com/LucasSquariz">
