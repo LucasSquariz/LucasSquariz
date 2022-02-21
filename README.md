@@ -29,8 +29,8 @@ Estudante da <a href="https://www.digitalhouse.com/br">Digital House</a> no curs
   </a>
 </div><br>
 
-<div> 
-  ## :e-mail: Contato: <br>
+## :e-mail: Contato: 
+<div>   
   <a href = "mailto:lucsilsqua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-silveira-642ab4187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
   
