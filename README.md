@@ -4,7 +4,7 @@
 Estudante da <a href="https://www.digitalhouse.com/br">Digital House</a> no curso Certified Tech Developer. Em busca de aperfeiçoamento e novos desafios :rocket:
 
 
-## :mage: Linguagens e tecnologias estudadas até o momento:<br>
+### :mage: Linguagens e tecnologias estudadas até o momento:<br>
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS%20-CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white)
@@ -30,7 +30,7 @@ Estudante da <a href="https://www.digitalhouse.com/br">Digital House</a> no curs
 </div><br>
 
 <div> 
-  ## :e-mail: Contato: <br>
+  ### :e-mail: Contato: <br>
   <a href = "mailto:lucsilsqua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-silveira-642ab4187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
   
