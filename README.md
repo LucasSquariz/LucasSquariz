@@ -1,4 +1,4 @@
-### Olar! Me chamo Lucas, muito prazer! 👋
+# Olar! Me chamo Lucas, muito prazer! 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF771&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+animes)](https://git.io/typing-svg)
 <br>
 
