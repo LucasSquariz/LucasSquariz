@@ -29,7 +29,7 @@ Estudante da <a href="https://www.digitalhouse.com/br">Digital House</a> no curs
   </a>
 </div><br>
 
-![Snake animation](https://github.com/lulutti/lulutti/blob/output/github-contribution-grid-snake.svg)
+<!---![Snake animation](https://github.com/lulutti/lulutti/blob/output/github-contribution-grid-snake.svg) --->
 
 ## :e-mail: Contato: 
 <div>   
