@@ -15,6 +15,7 @@ Estudante da <a href="https://www.digitalhouse.com/br">Digital House</a> no curs
 ![Node.js](https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm%20-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
