@@ -1,7 +1,7 @@
 # Olar!👋 Me chamo Lucas, muito prazer! :mage:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF771&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+animes)](https://git.io/typing-svg)
 
-Estudante da <a href="https://www.digitalhouse.com/br">Digital House</a> no curso Certified Tech Developer. Em busca de aperfeiçoamento e novos desafios :rocket:
+Estudante de ciência de dados e programador unity, finalizou um bootcamp de 2 ano de Dev Fullstack com foco em frontEnd. Em busca de aperfeiçoamento e novos desafios :rocket:
 
 
 ### :mage: Linguagens e tecnologias estudadas até o momento:<br>
