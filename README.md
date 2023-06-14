@@ -27,7 +27,7 @@ Estudante de ciência de dados e programador unity, finalizou um bootcamp de 2 a
 <br>
 
 
-![Snake animation](https://github.com/lulutti/lulutti/blob/output/github-contribution-grid-snake.svg)
+#![Snake animation](https://github.com/lulutti/lulutti/blob/output/github-contribution-grid-snake.svg)
 
 ## :e-mail: Contato: 
 <div>   
