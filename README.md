@@ -28,6 +28,10 @@ Estudante de ciência de dados e programador unity, finalizou um bootcamp de 2 a
 
 ![Snake gif](https://github.com/LucasSquariz/LucasSquariz/blob/output/github-contribution-grid-snake.svg)
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats-lucassquariz.vercel.app/api?username=LucasSquariz&show_icons=true&theme=onedark&include_all_commits=true&count_private=true)
+
 ## :e-mail: Contato: 
 <div>   
   <a href = "mailto:lucsilsqua@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
