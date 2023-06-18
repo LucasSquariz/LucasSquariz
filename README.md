@@ -1,5 +1,5 @@
 # Olar!👋 Me chamo Lucas, muito prazer! :mage:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF771&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+animes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF771&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+jogos)](https://git.io/typing-svg)
 
 Estudante de ciência de dados e programador unity, finalizou um bootcamp de 2 ano de Dev Fullstack com foco em frontEnd. Em busca de aperfeiçoamento e novos desafios :rocket:
 
