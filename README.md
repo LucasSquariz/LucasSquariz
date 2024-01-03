@@ -31,8 +31,8 @@ Estudante de ciência de dados e programador unity, finalizou um bootcamp de 2 a
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats-lucassquariz.vercel.app/api?username=LucasSquariz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-lucassquariz.vercel.app/api/top-langs/?username=LucasSquariz&theme=dracula&langs_count=8&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats-i1palvtef-lucassquariz.vercel.app/api?username=LucasSquariz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-i1palvtef-lucassquariz.vercel.app/api/top-langs/?username=LucasSquariz&theme=dracula&langs_count=8&layout=compact)
 
 ## :e-mail: Contato: 
 <div>   
