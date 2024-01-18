@@ -1,7 +1,7 @@
 # Olar!👋 Me chamo Lucas, muito prazer! :mage:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%233AF771&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+jogos)](https://git.io/typing-svg)
 
-Estudante de ciência de dados e desenvolvedor unity. Em busca de aperfeiçoamento e novos desafios :rocket:
+Estudante de ciência de dados, desenvolvedor fullstack e game dev. Em busca de aperfeiçoamento e novos desafios :rocket:
 
 
 ### :mage: Linguagens e tecnologias:<br>
