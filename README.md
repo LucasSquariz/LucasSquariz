@@ -44,7 +44,7 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-i1palvtef-lucassquariz.vercel.app/api?username=LucasSquariz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-i1palvtef-lucassquariz.vercel.app/api/top-langs/?username=LucasSquariz&theme=dracula&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats-i1palvtef-lucassquariz.vercel.app/api/top-langs/?username=LucasSquariz&theme=dracula&langs_count=8&layout=compact&hide=html)
 
 ## :e-mail: Contato: 
 <div>   
